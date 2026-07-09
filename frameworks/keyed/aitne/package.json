@@ -1,0 +1,18 @@
+{
+  "name": "js-framework-benchmark-keyed-aitne",
+  "version": "1.0.0",
+  "description": "Benchmark for Aitne",
+  "license": "ISC",
+  "js-framework-benchmark": {
+    "frameworkVersion": "0.4.2",
+    "frameworkHomeURL": "https://github.com/Arcelyth/aitne",
+    "language": "MoonBit"
+  },
+  "scripts": {
+    "build-prod": "echo This is a no-op. && echo Due to heavy dependencies, the generated javascript is already provided. "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krausest/js-framework-benchmark.git"
+  }
+}
